@@ -145,10 +145,12 @@ jarvis.py:11: note: Hint: "python3 -m pip install types-requests"
 Found 7 errors in 1 file (checked 1 source file)
 
 ```
-Comparision : 
-mypy and flake8 both are false at somewhere.
-flake8 tool also gives error of Comment thts is wrong error
-mypy tool do not give all the correct erorrs 
+<h2>Comparision : </h2>
+
+  mypy and flake8 both are false at somewhere.
+  flake8 tool also gives error of Comment thts is wrong error.
+  mypy tool do not give all the correct erorrs.
+
 
 
 
